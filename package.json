@@ -1,0 +1,16 @@
+{
+  "name": "mc2slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.51.0",
+    "socket.io-client": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n0bisuke",
+  "license": "MIT"
+}
