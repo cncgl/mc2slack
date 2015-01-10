@@ -5,7 +5,7 @@ var milkcocoa = new MilkCocoa('https://'+ config.appid +'.mlkcca.com');
 var ds = milkcocoa.dataStore(config.ds);
 
 ds.on('push', function(data) {
-
+  console.log(data);
     var mes = '「' + data.value.name + '('+ data.value.email +')」さんから問い合わせがありました。';
     mes += '[' + data.value.title + ']';
     mes += data.value.body;
