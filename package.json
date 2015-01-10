@@ -1,8 +1,8 @@
 {
   "name": "mc2slack",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "## slack setting * use `Incoming WebHooks` integration ![](http://i.gyazo.com/0deef5ae2dfcfcf2486a7a83477bb6aa.png)\u0010",
+  "main": "app.js",
   "dependencies": {
     "request": "^2.51.0",
     "socket.io-client": "^1.0.6"
@@ -11,6 +11,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n0bisuke/mc2slack.git"
+  },
+  "keywords": [
+    "milkcocoa",
+    "slack",
+    "node.js"
+  ],
   "author": "n0bisuke",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n0bisuke/mc2slack/issues"
+  },
+  "homepage": "https://github.com/n0bisuke/mc2slack"
 }

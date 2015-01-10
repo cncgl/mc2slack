@@ -9,7 +9,7 @@
 ```
 $ git clone
 $ cd mc2slack
-$ npm i
+$ npm i git@github.com:n0bisuke/mc2slack.git
 $ touch config.js
 ```
 
@@ -25,4 +25,10 @@ module.exports = {
     username : 'n0bisuke' //your bot name
   }
 };
+```
+
+## use
+
+```
+$ node app
 ```
