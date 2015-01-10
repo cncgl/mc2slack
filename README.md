@@ -1,10 +1,10 @@
 ## milkcocoa to Slack for Node.js
 
-## slack
-
+## slack setting
 * use `Incoming WebHooks` integration
+![](http://i.gyazo.com/0deef5ae2dfcfcf2486a7a83477bb6aa.png)
 
-## install
+## install
 
 ```
 $ git clone
@@ -12,6 +12,8 @@ $ cd mc2slack
 $ npm i
 $ touch config.js
 ```
+
+### config.js
 
 ```config.js
 module.exports = {
