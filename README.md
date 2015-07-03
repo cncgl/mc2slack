@@ -1,8 +1,10 @@
 ## milkcocoa to Slack for Node.js
 
+original https://github.com/n0bisuke/mc2slack
+
 ## slack setting
 * use `Incoming WebHooks` integration
-![](http://i.gyazo.com/0deef5ae2dfcfcf2486a7a83477bb6aa.png)
+![](https://drive.google.com/open?id=0BxX1sdAOmTicdmplOVN0bWtON1U)
 
 ## install
 
