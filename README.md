@@ -4,7 +4,7 @@ original https://github.com/n0bisuke/mc2slack
 
 ## slack setting
 * use `Incoming WebHooks` integration
-![](https://drive.google.com/open?id=0BxX1sdAOmTicdmplOVN0bWtON1U)
+![](https://drive.google.com/uc?exoirt=view&id=0BxX1sdAOmTicdmplOVN0bWtON1U)
 
 ## install
 
