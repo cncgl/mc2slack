@@ -5,7 +5,8 @@
   "main": "app.js",
   "dependencies": {
     "request": "^2.51.0",
-    "socket.io-client": "1.0.6"
+    "socket.io-client": "1.0.6",
+    "milkcocoa": "*"
   },
   "devDependencies": {},
   "scripts": {
