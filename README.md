@@ -2,14 +2,14 @@
 
 ## slack setting
 * use `Incoming WebHooks` integration
-![](http://i.gyazo.com/0deef5ae2dfcfcf2486a7a83477bb6aa.png)
+![](http://i.gyazo.com/0deef5ae2dfcfcf2486a7a83477bb6aa.png)
 
 ## install
 
 ```
-$ git clone
+$ git clone git@github.com:cncgl/mc2slack.git
 $ cd mc2slack
-$ npm i git@github.com:n0bisuke/mc2slack.git
+$ npm i
 $ touch config.js
 ```
 
@@ -21,13 +21,13 @@ module.exports = {
   ds : 'milkcocoa your datastore name',
   slack :{
     url : 'slack Incoming WebHooks URL',
-    channel : '#general', //your channel name
-    username : 'n0bisuke' //your bot name
+    channel : '#general',
+    username : 'message-bot'
   }
 };
 ```
 
-## use
+## use
 
 ```
 $ node app
