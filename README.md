@@ -34,3 +34,10 @@ module.exports = {
 ```
 $ node app
 ```
+
+### use as a daemon
+
+```
+$ npm i -g pm2
+$ pm2 start app
+```

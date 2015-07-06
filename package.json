@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/n0bisuke/mc2slack.git"
+    "url": "https://github.com/cncgl/mc2slack.git"
   },
   "keywords": [
     "milkcocoa",
     "slack",
     "node.js"
   ],
-  "author": "n0bisuke",
+  "author": "cncgl",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/n0bisuke/mc2slack/issues"
+    "url": "https://github.com/cncgl/mc2slack/issues"
   },
-  "homepage": "https://github.com/n0bisuke/mc2slack"
+  "homepage": "https://github.com/cncgl/mc2slack"
 }
